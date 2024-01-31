@@ -2,6 +2,8 @@
 
 sudo apt update
 
+sudo apt install nginx -y
+
 sudo apt install docker.io -y
 
 sudo docker login
